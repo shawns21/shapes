@@ -4,3 +4,11 @@ ________
 |      |
 |      |
 |______|
+
+
+This is the second commit with a dollar sign in the box
+
+________
+|      |
+|   $  |
+|______|
