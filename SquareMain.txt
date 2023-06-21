@@ -12,3 +12,9 @@ ________
 |      |
 |   $  |
 |______|
+
+This is the final and third commit with the two top lines removed
+
+|      |
+|   $  |
+|      |
